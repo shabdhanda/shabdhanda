@@ -6,5 +6,5 @@
 🛠️ Skills: Python, GitHub, APIs, Automation  
 📬 Open to internships and project collaborations
 
-🔗 [LinkedIn](https://www.linkedin.com/in/shabd-handa-0161a9370/)
+🔗 [LinkedIn](https://www.linkedin.com/in/shabdhanda)
 
